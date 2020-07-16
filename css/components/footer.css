@@ -1,0 +1,13 @@
+.footer{
+  padding: 10px;
+  background-color: #1EDD87;
+  text-align: center;
+  color: white;
+  font-size: 40px
+}
+.footer li {
+  display: inline-block;
+  margin: 0 15px;
+
+
+}
